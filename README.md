@@ -24,9 +24,7 @@
 
 ## Architecture Overview
 
-```
-                        ![App Screenshot](screenshot.png)
-```
+![Screenshot](screenshot.png)
 
 ---
 
